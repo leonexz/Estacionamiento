@@ -1,0 +1,5 @@
+anacleto,perez,c9i-617,toyota,corolla,blanco,2019
+rosa,luz,r5t-121,elantra,nissan,negro,2018
+rosario,fudex,uy7-999,forz,veloster,amarillo,2019
+julio,rodriguez,cew,kia,cerato,morado,2019
+cece,cew,cwe,cew,ce,ce,ec
